@@ -9,3 +9,5 @@ Técnologias a estudar:
 - Data Analytics;
 - Criação de Sites.
 
+Curso a realizar:
+- Marketing Digital e Growth Haking (Certificação profissional: IBM e Coursera)
