@@ -11,3 +11,4 @@ Técnologias a estudar:
 
 Curso a realizar:
 - Marketing Digital e Growth Haking (Certificação profissional: IBM e Coursera)
+    https://www.coursera.org/professional-certificates/ibm-digital-marketing-and-growth-hacking;
